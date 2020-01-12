@@ -1,5 +1,5 @@
-import { expect } from 'chai';
-import { Item, GildedRose } from '../app/gilded-rose';
+import { expect } from "chai";
+import { Item, GildedRose } from "../app/gilded-rose";
 import { AGED_BRIE, BACKSTAGE_PASSES, SULFURAS } from "../app/constants";
 
 describe("Gilded Rose", () => {
