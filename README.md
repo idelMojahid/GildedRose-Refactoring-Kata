@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in Typescript with mocha
+This is the Gilded Rose kata in Javascript with jest
 
 ## Getting started
 
@@ -21,5 +21,3 @@ To run all tests
 ```sh
 npm test
 ```
-
-
